@@ -9,6 +9,7 @@ const log = console.log
 let width, height
 
 let ctx
+
 let blob
 
 
